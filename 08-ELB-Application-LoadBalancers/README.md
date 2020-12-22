@@ -24,7 +24,7 @@
   - https://github.com/kubernetes-sigs/aws-alb-ingress-controller/tree/master/docs/examples/2048
 
 ### AWS ALB Ingress Annotations Reference
-- https://kubernetes-sigs.github.io/aws-alb-ingress-controller/guide/ingress/annotation/
+- https://github.com/kubernetes-sigs/aws-load-balancer-controller/blob/main/docs/guide/ingress/annotations.md
 
 ### eksctl getting started
 - https://eksctl.io/introduction/#getting-started
